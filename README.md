@@ -1,0 +1,2 @@
+# helloWorldQt
+qt hello world
